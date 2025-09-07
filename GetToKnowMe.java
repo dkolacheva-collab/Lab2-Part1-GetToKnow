@@ -9,8 +9,8 @@
 public class GetToKnowMe
 {
     public static void main (String[] args){
-        System.out.print("My name is Daniela Kolacheva.\n" );
-        System.out.print("My major is Computer Hardware Engineering.\n");
-        System.out.print("One of my favorite hobbies is to play a game with a good storyline.\n");
+        System.out.println("My name is Daniela Kolacheva.\n" );
+        System.out.println("My major is Computer Hardware Engineering.\n");
+        System.out.println("One of my favorite hobbies is to play a game with a good storyline.");
     }
 }
