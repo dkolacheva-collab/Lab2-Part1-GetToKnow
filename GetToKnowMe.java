@@ -6,7 +6,7 @@
  * @version v1.0
  * @since 9/6/2025
  */
-public class GetToKnowMe
+public class GetToKnow
 {
     public static void main (String[] args){
         System.out.println("My name is Daniela Kolacheva.\n" );
